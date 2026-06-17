@@ -13,7 +13,7 @@
 ## Структура проекта
 
 *   `pagesPlaywright/`: Пакет, содержащий классы Page Object для различных страниц.
-    *   `LoginPage.java`: Объект страницы логина (`https://hostkey.ru/login/`).
+    *   `LoginPage.java`: Объект страницы логина.
     *   `RoomPage.java`: Объект страницы комнаты чата.
     *   `MessagesRoomPage.java`: Объект страницы с сообщениями в комнате.
 *   `tests/`: Пакет с тестовыми классами.
