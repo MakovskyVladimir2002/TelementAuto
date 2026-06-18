@@ -12,6 +12,8 @@
 
 ## Структура проекта
 
+Перейти в AutotestsMakovsky-master/src/test/java
+
 *   `pagesPlaywright/`: Пакет, содержащий классы Page Object для различных страниц.
     *   `LoginPage.java`: Объект страницы логина.
     *   `RoomPage.java`: Объект страницы комнаты чата.
